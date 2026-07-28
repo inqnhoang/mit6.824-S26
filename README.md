@@ -1,4 +1,4 @@
-# mit6824-S26
+# mit 5.840 spring 2026
 
 The completed lab of Mit's 6.5840 Distributed Systems. It passes all tests provided, and ensures linearizability and idempotency. 
 
